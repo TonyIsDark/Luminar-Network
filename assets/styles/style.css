@@ -245,7 +245,7 @@ body {
     background-repeat: no-repeat;
     font-family: "Outfit", sans-serif;
     padding: 0.5rem;
-    overflow-y: hidden;
+    overflow-y: show;
 }
 
 main {
